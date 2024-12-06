@@ -4,9 +4,9 @@ My name is Konstantin Korovin
 I am a Node.js developer
 -----------------
 
-* 🌍  I am based in Kazan, Russia
-* ✉️  You can contact me via [Email](mailto:cosmo.stan.x@gmail.com) and [Telegram](https://t.me/CosmoS1X)
-* 🧠  I am a graduate of the [Hexlet](https://ru.hexlet.io/) programming school
+* 🌍  I am based in Kazan, Russia
+* ✉️  You can contact me via [Email](mailto:cosmo.stan.x@gmail.com) and [Telegram](https://t.me/CosmoS1X)
+* 🧠  I am a graduate of the [Hexlet](https://ru.hexlet.io/) programming school
 * 🤝  I am open to collaborating on interesting projects
 
 ### Skills
