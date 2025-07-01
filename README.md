@@ -11,9 +11,9 @@ I am a Node.js developer
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,npm,bash,git,postgres,sqlite,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,npm,bash,express,postgres,sqlite,jest,git,github,docker)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=pug,bootstrap,html,css,webpack,docker,md,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,pug,html,css,sass,webpack,md,vscode,postman,linux)](https://skillicons.dev)
 
 ### Badges
 
